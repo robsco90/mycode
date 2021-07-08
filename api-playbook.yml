@@ -16,5 +16,5 @@
                               
   - name: Display the contents of the variable astrojson
     debug:
-      var: astrojson                                         
+      var: astrojson.json                                         
 
